@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\Desktop\\Experimento\\PlayBox_7996\\ELKIN_ANDRES_PABON_GONZALEZ\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "C:\\Users\\Andres\\Desktop\\PlayBox-main\\Tetris-Game-main\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\Andres\\Desktop\\Experimento\\PlayBox_7996\\ELKIN_ANDRES_PABON_GONZALEZ\\Tetris\\Tetris.csproj",
+      "projectPath": "C:\\Users\\Andres\\Desktop\\PlayBox-main\\Tetris-Game-main\\Tetris\\Tetris.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\Desktop\\Experimento\\PlayBox_7996\\ELKIN_ANDRES_PABON_GONZALEZ\\Tetris\\obj\\",
+      "outputPath": "C:\\Users\\Andres\\Desktop\\PlayBox-main\\Tetris-Game-main\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
